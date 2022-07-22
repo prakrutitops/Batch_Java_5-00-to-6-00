@@ -1,0 +1,10 @@
+JSP=>Servlet Extension
+JSP Tags
+
+1.Scriptlet Tag <% %>=>Java Source Code
+
+2.Expression Tag<%= %>
+3.Declaration Tag<%! %>
+
+
+
